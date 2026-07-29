@@ -457,6 +457,4 @@ python scripts/export_contracts_package_migration_report.py
 
 Команда формирует отчёты о необходимости replay для прежних релизов и пересобирает их относительно `0.50.0`. Отчёты сохраняются как `examples/migrations/contracts-ru-v0-<source>-to-0.50.0-migration-report.json` для `0.1.0`, `0.3.0` и каждого релиза с `0.4.0` по `0.49.0`. Прежние отчёты `*-to-0.17.0` … `*-to-0.49.0` сохраняются как исторические артефакты.
 
-## License
 
-Apache-2.0. See [LICENSE](LICENSE).
